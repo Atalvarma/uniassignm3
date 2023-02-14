@@ -1,0 +1,15 @@
+{
+  "name": "data-format",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atal mudunuru",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
